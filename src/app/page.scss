@@ -17,6 +17,7 @@
     --box-border-color: #eeeeee;
     --box-font-color: #404040;
     --dday-color: #f79e9e;
+    background: #fafafa !important;
 }
 
 main {
@@ -52,6 +53,7 @@ main {
     border-radius: 8px;
     padding: 6px 10px;
     font-family: "Gowun Dodum", sans-serif;
+    font-weight: 800;
 }
 
 .row-01 {
@@ -65,6 +67,7 @@ main {
 }
 .mainV5 .inr .row-01 .g-wrap .g {
     font-size: 1.7rem;
+    font-weight: bold;
     margin: 0 0.3rem;
 }
 .g2-wrap {
@@ -76,7 +79,6 @@ main {
 
 
 .row-02 {
-    padding: 0 2rem;
     margin: 1rem 0;
 }
 
@@ -98,7 +100,7 @@ main {
         height: 100%;
 
         background: #ffffff;
-        background: linear-gradient(0deg, #fff 0%, #ffffff80 15%, #fff0 25% 70%, #ffffff80 85%, #fff 100%);
+        background: linear-gradient(0deg, #fafafa 0%, #ffffff80 15%, #fff0 25% 70%, #ffffff80 85%, #fafafa 100%);
     }
 }
 
