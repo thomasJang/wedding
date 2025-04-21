@@ -1,4 +1,5 @@
 import "./page.scss";
+import img from "./CNUk9psVgu.png";
 
 export default function Home() {
   return (
@@ -36,7 +37,7 @@ export default function Home() {
             <div className="row-02">
               <div className="main-img-parent">
                 <div className={"img"} style={{
-                  backgroundImage: "url(/CNUk9psVgu.PNG)"
+                  backgroundImage: `url(${img.src})`
                 }} />
                 <div className={"img-effect"} />
               </div>
