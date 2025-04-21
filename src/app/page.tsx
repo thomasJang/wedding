@@ -25,10 +25,10 @@ export default function Home() {
                 display: "flex",
                 justifyContent: "center"
               }}>
-                <a className={"button"} href={"https://naver.me/GOPEJku7"} target={"_blank"}>
+                <a className={"button"} href={"https://naver.me/x7nG7Ji1"} target={"_blank"}>
                 네이버지도에서 보기
                 </a>
-                <a className={"button"} href={"https://kko.kakao.com/npXP1TPjYd"} target={"_blank"}>
+                <a className={"button"} href={"https://kko.kakao.com/NmewKEqOnj"} target={"_blank"}>
                 카카오맵에서 보기
                 </a>
               </div>
@@ -81,10 +81,10 @@ export default function Home() {
                 display: "flex",
                 justifyContent: "center"
               }}>
-                <a className={"button"} href={"https://naver.me/GOPEJku7"} target={"_blank"}>
+                <a className={"button"} href={"https://naver.me/x7nG7Ji1"} target={"_blank"}>
                   네이버지도에서 보기
                 </a>
-                <a className={"button"} href={"https://kko.kakao.com/npXP1TPjYd"} target={"_blank"}>
+                <a className={"button"} href={"https://kko.kakao.com/NmewKEqOnj"} target={"_blank"}>
                   카카오맵에서 보기
                 </a>
               </div>
