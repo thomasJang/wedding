@@ -6,6 +6,7 @@ export function Btns() {
         margin: "1rem",
         display: "flex",
         justifyContent: "center",
+        fontSize: "2rem",
       }}
     >
       <button
